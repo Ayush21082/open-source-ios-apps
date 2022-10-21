@@ -16236,6 +16236,21 @@
       "updated": "2012-05-01 14:44:11 UTC"
     },
     {
+      "title": "FlipTheCup",
+      "source": "https://github.com/Ayush21082/Flip-The-Cup",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "archive"
+      ],
+      "license": "other",
+      "date_added": "Oct 21 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 1,
+      "updated": "2022-10-21 21:24:10 IST"
+    },
+    {
       "title": "fosdem",
       "source": "https://github.com/leonhandreke/fosdem",
       "category-ids": [
